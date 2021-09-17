@@ -6,4 +6,4 @@ function main (numOne, numTwo){
     return product;
     }
 
-    console.log(main(numOne, numTwo)
+    console.log(main(numOne, numTwo))
